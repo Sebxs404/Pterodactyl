@@ -8,3 +8,8 @@
 |                  | 20.04   | :white_check_mark: | 8.3         |
 |                  | 22.04   | :white_check_mark: | 8.3         |
 |                  | 24.04   | :white_check_mark: | 8.3         |
+
+
+```sh
+bash <(curl https://raw.githubusercontent.com/Sebxs404/Pterodactyl/main/pterodactyl.sh)
+```
